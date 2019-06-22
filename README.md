@@ -7,7 +7,7 @@ Notes:
 * Before filing a bug, please make sure your system meets the minimum requirements and you have a supported driver installed. 
 * Minimum requirements for Dota Underlords:
     * Linux 64-bit: Vulkan-capable GPU from NVIDIA, AMD, or Intel
-      - Ivybridge and Haswell requires mesa 19.2.0 or newer
+      - Ivybridge and Haswell requires mesa 19.1.0 or newer
     * macOS 10.13.6+ with a Metal-capable GPU
 
 If the game fails to launch with a "missing executable" error, please use Steam to [verify the integrity](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) of the game's files in order to acquire the missing binaries.
