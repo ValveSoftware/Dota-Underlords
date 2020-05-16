@@ -3,7 +3,7 @@ Tracker for issues specific to Dota Underlords on Linux and macOS.
 
 Notes:
 
-* This tracker is only for issues impacting the Linux and macOS version of Dota Underlords. For all other Dota Underlords bugs, use [this contact form](https://www.valvesoftware.com/en/contact?recipient=Dota+Underlords+Team).
+* This tracker is only for issues impacting the Linux and macOS version of Dota Underlords. For all other Dota Underlords bugs, use [this contact form](https://underlords.com/feedback/).
 * Before filing a bug, please make sure your system meets the minimum requirements and you have a supported driver installed. 
 * Minimum requirements for Dota Underlords:
     * Linux 64-bit: Vulkan-capable GPU from NVIDIA, AMD, or Intel
