@@ -60,4 +60,4 @@ Paste this information into your report, preferably in a code block or a [gist](
 Feature Requests
 -------------------
 
-This repository is not meant for Dota Underlords feature requests. Please use [this contact form](https://www.valvesoftware.com/en/contact?recipient=Dota+Underlords+Team) for suggestions.
+This repository is not meant for Dota Underlords feature requests. Please use [this contact form](https://underlords.com/feedback/) for suggestions.
